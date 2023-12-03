@@ -1,14 +1,14 @@
 ---
-title: Brennon L. Shanks
-role: PhD Candidate in Chemical Engineering
+title: Nicholas A. Davis
+role: Adult Gerontology Acute Care Nurse Practitioner
 bio: null
 interests:
-  - Neutron Scattering
-  - Molecular Dynamics
-  - Statistical Mechanics
-  - Quantum Mechanics
-  - Probabilistic Machine Learning
-  - Gaussian Processes
+  - Multidisciplinary Collaboration
+  - Advanced Clincal Education
+  - Research and Evidence-Based Practice
+  - Patient Advocacy
+  - Patient and Family Education
+  - Technology Integration
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,25 +32,30 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/CV.pdf
-organizations:
-  - name: Chemical Engineering at University of Utah
-    url: https://hoepfner.che.utah.edu/
-  - name: Energy Frontier Research Center
-    url: https://efrcmuse.utah.edu/
+organizations: Adult Gerontology Acute Care Nurse Practitioner
+  - name: 
+    url: 
+  - name: 
+    url: 
 education:
   courses:
-    - course: Ph.D. in Chemical Engineering
-      institution: University of Utah
-      year: 2024 (expected)
-    - course: B.E. in Chemical Engineering and Mathematics
-      institution: Ohio State University
-      year: 2019
+    - course: Masters in Adult Gerontology Acute Care Nurse Practitioner (AG-ACNP)
+      institution: Northern Kentucky University
+      year: 2023
+    - course: BSN in Nursing
+      institution: Univeristy of Nevada, Reno
+      year: 2018
+    - course: BSN in Nutritional Science
+      institution: University of Nevada, Reno
+      year: 2014
 superuser: true
-last_name: Shanks
+last_name: Davis
 highlight_name: true
-first_name: Brennon
-email: brennon.shanks@chemeng.utah.edu
+first_name: Nicholas
+email: nicholasandrewdavis27@gmail.com
 ---
-I am a statistical thermodynamics researcher that applies molecular dynamics, statistical mechanics, and machine learning to study liquid state materials. My current research projects include developing machine learning approaches for neutron scattering analysis, thermodynamic characterization of high pressure and temperature liquids and liquid metals, and fundamental analysis of many-body interactions from neutron scattering experiments.
+As a highly skilled Registered Nurse, I bring a wealth of experience and expertise garnered from diverse critical care settings. My professional journey has led me through the dynamic environments of Level 1 Trauma Centers, Level 1 Burn ICUs, Medical ICUs, and Level 1 Cardiothoracic ICUs, where I have honed my abilities to thrive in high-stakes situations and deliver top-notch patient care.
 
-T﻿his website contains posts, projects, publications, talks, teaching and course materials. I will also occasionally post Jupyter notebooks highlighting useful machine learning techniques as well as derivations of statistical and quantum mechanical relations that are relevant to the investigation of atomic structure and interactions. 
+Committed to advancing my knowledge and elevating my practice, I recently completed my Adult-Gerontology Acute Care Nurse Practitioner (AG-ACNPC) degree at Northern Kentucky University. This intensive program provided a comprehensive academic foundation, augmented by critical care clinical rotations at a Level 1 Teaching Hospital, specifically the esteemed University of Utah Hospital.
+
+The completion of my AG-ACNPC reflects not only my academic achievements but also my commitment to staying at the forefront of advancements in critical care. I am eager to contribute my wealth of knowledge and hands-on experience to make a positive impact on patient outcomes, providing compassionate and expert care in the ever-evolving landscape of healthcare.
