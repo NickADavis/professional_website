@@ -32,8 +32,8 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/CV.pdf
-organizations: Adult Gerontology Acute Care Nurse Practitioner
-  - name: 
+organizations: 
+  - name: Adult Gerontology Acute Care Nurse Practitioner
     url: 
   - name: 
     url: 
