@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: https://github.com/brennonshanks/website/
+    url: https://github.com/NickADavis/professional_website
     content_dir: content
     branch: main
   avatar:
