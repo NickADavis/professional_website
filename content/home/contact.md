@@ -14,7 +14,7 @@ content:
       ? id
     netlify:
       captcha: false
-  email: brennon.shanks@chemeng.utah.edu
+  email: nicholasandrewdavis@gmail.com
   appointment_url: 
   contact_links:
     - icon: twitter
