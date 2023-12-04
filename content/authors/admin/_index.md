@@ -33,7 +33,7 @@ social:
     icon_pack: ai
     link: uploads/CV.pdf
 organizations: 
-  - name: Adult Gerontology Acute Care Nurse Practitioner
+  - name: 
     url: 
   - name: 
     url: 
