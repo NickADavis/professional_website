@@ -16,11 +16,6 @@ content:
       captcha: false
   email: nicholasandrewdavis@gmail.com
   appointment_url: 
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: https://twitter.com/BrennonLShanks
 design:
   columns: "2"
 ---
