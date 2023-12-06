@@ -16,6 +16,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/nicholas-davis-274770273/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/nickdavis27/
   - icon: cv
     icon_pack: ai
     link: uploads/CV.pdf
