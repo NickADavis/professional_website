@@ -44,7 +44,7 @@ highlight_name: true
 first_name: Nicholas
 email: nicholasandrewdavis27@gmail.com
 ---
-As a previously highly skilled Registered Nurse, I bring knowledge garnered through diverse critical care settings. My professional journey has taken me into Level 1 Cardiothoracic ICUs, Trauma ICUs, Burn ICUs, and Medical ICUs, where I have finely tuned my abilities to excel in high-stakes scenarios while consistently delivering top-notch patient care.
+As a highly skilled Registered Nurse, I brought knowledge garnered through diverse critical care settings. My professional journey has taken me into Level 1 Cardiothoracic ICUs, Trauma ICUs, Burn ICUs, and Medical ICUs, where I have finely tuned my abilities to excel in high-stakes scenarios while consistently delivering top-notch patient care.
 
 Dedicated to advancing my knowledge and elevating my practice, I recently attained my Adult-Gerontology Acute Care Nurse Practitioner (AG-ACNPC) degree from Northern Kentucky University.
 
