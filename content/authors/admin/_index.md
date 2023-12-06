@@ -13,22 +13,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/BrennonLShanks
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/brennonshanks
-    label: Follow me on GitHub
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/brennon-shanks-365601b4/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=fYp9LkAAAAAJ&hl=en
+    link: https://www.linkedin.com/in/nicholas-davis-274770273/
   - icon: cv
     icon_pack: ai
     link: uploads/CV.pdf
