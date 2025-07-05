@@ -1,7 +1,6 @@
 ---
 title: Nicholas A. Davis
 role: Founder & CEO of ClearChartAI
-role: Adult Gerontology Acute Care Nurse Practitioner
 bio: null
 interests:
   - Multidisciplinary Collaboration
